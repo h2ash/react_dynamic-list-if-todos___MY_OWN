@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_dynamic-list-of-todos-test/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react_dynamic-list-of-todos-test/static/js/main.9bf20e6e.chunk.js",
+    "main.js.map": "/react_dynamic-list-of-todos-test/static/js/main.9bf20e6e.chunk.js.map",
+    "runtime~main.js": "/react_dynamic-list-of-todos-test/static/js/runtime~main.4817de26.js",
+    "runtime~main.js.map": "/react_dynamic-list-of-todos-test/static/js/runtime~main.4817de26.js.map",
+    "static/js/2.b41502e9.chunk.js": "/react_dynamic-list-of-todos-test/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/react_dynamic-list-of-todos-test/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/react_dynamic-list-of-todos-test/index.html",
+    "precache-manifest.28e386e11fe7d9217cf6d1b78957bba9.js": "/react_dynamic-list-of-todos-test/precache-manifest.28e386e11fe7d9217cf6d1b78957bba9.js",
+    "service-worker.js": "/react_dynamic-list-of-todos-test/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react_dynamic-list-of-todos-test/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react_dynamic-list-of-todos-test/static/media/logo.5d5d9eef.svg"
+  }
+}
